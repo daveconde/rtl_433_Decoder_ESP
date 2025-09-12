@@ -26,6 +26,7 @@
     DECL(ambientweather_tx8300)      \
     DECL(ambientweather_wh31e)       \
     DECL(ant_antplus)                \
+    DECL(apator_metra_erm30)         \
     DECL(arad_ms_meter)              \
     DECL(archos_tbh)                 \
     DECL(arexx_ml)                   \
@@ -124,6 +125,7 @@
     DECL(hideki_ts04)                \
     DECL(holman_ws5029pcm)           \
     DECL(holman_ws5029pwm)           \
+    DECL(homelead_hg9901)            \
     DECL(hondaremote)                \
     DECL(honeywell)                  \
     DECL(honeywell_cm921)            \
@@ -165,6 +167,7 @@
     DECL(maverick_et73)              \
     DECL(maverick_et73x)             \
     DECL(maverick_xr30)              \
+    DECL(maverick_xr50)              \
     DECL(mebus433)                   \
     DECL(megacode)                   \
     DECL(missil_ml0757)              \
@@ -174,6 +177,7 @@
     DECL(newkaku)                    \
     DECL(nexa)                       \
     DECL(nexus)                      \
+    DECL(nexus_sauna)                \
     DECL(nice_flor_s)                \
     DECL(norgo)                      \
     DECL(oil_smart)                  \
@@ -240,6 +244,7 @@
     DECL(thermopro_tp829b)           \
     DECL(thermopro_tx2)              \
     DECL(thermopro_tx2c)             \
+    DECL(thermopro_tx7b)             \
     DECL(thermor)                    \
     DECL(tpms_abarth124)             \
     DECL(tpms_ave)                   \
