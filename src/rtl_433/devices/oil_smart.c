@@ -68,7 +68,7 @@ static int oil_smart_decode(r_device *decoder, bitbuffer_t *bitbuffer, unsigned 
 
     if (b[0] != 0x55 || b[1] != 0x58) {
         decoder_log(decoder, 2, __func__, "Couldn't find preamble");
-        //return 0; // DECODE_FAIL_SANITY; // TODO: fix calling code to handle negative return values
+        return 0; // DECODE_FAIL_SANITY; // TODO: fix calling code to handle negative return values
     }
 
     if (crc8le(b, 8, 0x31, 0x00)) {
